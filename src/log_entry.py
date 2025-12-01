@@ -5,3 +5,4 @@ class LogEntry:
         self.method = method
         self.endpoint = endpoint
         self.status_code = status_code
+
